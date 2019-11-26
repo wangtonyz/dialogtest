@@ -1,3 +1,2 @@
-# Test2byBISTU
-BISTU安卓课第一个小测试-关于AlertDialog的登陆界面
-本内容为androidStudio编写，具体实现了AlertDialog相关的一些操作
+# DialogTest
+实现了AlertDialog相关的一些操作
